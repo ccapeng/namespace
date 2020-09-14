@@ -13,4 +13,5 @@
 		<ns2:bbb />
 	</root>
 	`
+	
 	In the xml, there are 2 namespaces : ns1, ns2,
